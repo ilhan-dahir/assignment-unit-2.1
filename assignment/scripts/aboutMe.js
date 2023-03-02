@@ -15,7 +15,7 @@ let luckyNumber = 1;
 // Refer back to the videos if you need help with this one.
 console.log( 'My name is '+ fullName + ', and I think ' + luckyNumber + ' is a winner!')
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
-let adventurous = true;
+let adventurous = false;
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
 let food = 'cookies';
 // 9 - Create a variable called `pets` and set it to the value of the number of pets you have
@@ -97,4 +97,4 @@ console.log(text)
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
 
-
+console.log (adventurous ? 'Adventures are great!' : 'How about we stay home?');
